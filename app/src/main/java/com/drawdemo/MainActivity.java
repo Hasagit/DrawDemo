@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         //ver_4
         //ver_5
         Log.e("test","");
+        Log.e("test","ver_6");
     }
 }
