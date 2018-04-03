@@ -19,6 +19,7 @@ import java.util.Map;
 
 public class MyView extends View {
     //测试20180403
+    //测试2018040302
     private int touch_x=0,touch_y=0;
     private Canvas canvas;
     private List<List<Map<String,Integer>>>dian=new ArrayList<>();
